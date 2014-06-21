@@ -1,29 +1,29 @@
 ###Code Book - Tidy_dataset.txt (derived from UCI HAR Dataset)
-
 ###Course Project - Getting and Cleaning Data
+>Activity
+>Factor
+>The activity during which diverse parameters were measured.
+<ol>
+<li>WALKING</li>
+<li>WALKING_UPSTAIRS</li>
+<li>WALKING_DOWNSTAIRS</li>
+<li>SITTING</li>
+<li>STANDING</li>
+<li>LAYING</li>
+</ol>
 
-Activity
-Factor
-The activity during which diverse parameters were measured.
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+>Subject
+>Integer
+>Subject identifier
+>Total number of subjects is 30. Number is the subject identifier.
 
-Subject
-Integer
-Subject identifier
-Total number of subjects is 30. Number is the subject identifier.
+>Avg-tBodyAcc-mean()-X
+>Numeric
+>Average of the tBodyAcc-mean()-X measurements of the corresponding subject during the corresponding activity.
 
-Avg-tBodyAcc-mean()-X
-Numeric
-Average of the tBodyAcc-mean()-X measurements of the corresponding subject during the corresponding activity.
-
-Avg-tBodyAcc-mean()-Y
-Numeric
-Average of the tBodyAcc-mean()-Y measurements of the corresponding subject during the corresponding activity.
+>Avg-tBodyAcc-mean()-Y
+>Numeric
+>Average of the tBodyAcc-mean()-Y measurements of the corresponding subject during the corresponding activity.
 
 Avg-tBodyAcc-mean()-Z
 Numeric
