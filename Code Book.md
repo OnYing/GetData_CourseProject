@@ -1,8 +1,8 @@
 ###Code Book - Tidy_dataset.txt (derived from UCI HAR Dataset)
 ###Course Project - Getting and Cleaning Data
->Activity
->Factor
->The activity during which diverse parameters were measured.
+<p>Activity</p>
+<p>Factor</p>
+<p>The activity during which diverse parameters were measured.</p>
 <ol>
 <li>WALKING</li>
 <li>WALKING_UPSTAIRS</li>
@@ -12,10 +12,10 @@
 <li>LAYING</li>
 </ol>
 
->Subject
->Integer
->Subject identifier
->Total number of subjects is 30. Number is the subject identifier.
+<p>Subject</p>
+<p>Integer</p>
+<p>Subject identifier</p>
+<p>Total number of subjects is 30. Number is the subject identifier.</p>
 
 >Avg-tBodyAcc-mean()-X
 >Numeric
