@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Supplement to Human Activity Recognition Using Smartphones Dataset
 
 Author: OYA
@@ -8,20 +7,6 @@ README is a supplement to the README.txt file provided with the original dataset
 
 
 The dataset includes the following additional files:
-=======
-GetData_CourseProject
-==================================================================
-Supplement to Human Activity Recognition Using Smartphones Dataset
-Author: OYA
-Version 1.0
-==================================================================
-
-README is a supplement to the README.txt file provided with the original dataset
-================================================================================
-
-The dataset includes the following additional files:
-====================================================
->>>>>>> 902e51a9cfe494a3db274ea70ffe3bcde84776e4
 - 'README.md'
 - 'CODEBOOK.md'
 - 'run_analysis.R': script that constructs the 'tidy_dataset.txt' from the original data files
@@ -31,13 +16,7 @@ The dataset includes the following additional files:
 		      These 66 parameters are the averages values of the mean or standard deviation of the features that were measured per activity and subject. 
 		      A further description of the 'tidy_dataset.txt' can be found in the 'CODEBOOK.md'.
 
-<<<<<<< HEAD
-
 How tidy_dataset.txt is constructed:
-=======
-How tidy_dataset.txt is constructed:
-====================================
->>>>>>> 902e51a9cfe494a3db274ea70ffe3bcde84776e4
 - Test and training dataset were first constructed separately using the original data files (see README.txt with original dataset for more info)
 
 	- Test set
@@ -60,11 +39,8 @@ How tidy_dataset.txt is constructed:
 	- Column names containing mean as a parameter for the angle() function were also not included.
 
 - 'tidy_dataset.txt' was created
-<<<<<<< HEAD
+
 	- This dataset contains the average values of the mean or standard deviation of the features that were measured per activity(6) and per subject(30).
-=======
-	- This dataset contains the average values of the mean or standard deviation of the features that were measured per  activity(6) and per subject(30).
->>>>>>> 902e51a9cfe494a3db274ea70ffe3bcde84776e4
 
 
 

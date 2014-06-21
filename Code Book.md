@@ -1,6 +1,6 @@
-				Code Book - Tidy_dataset.txt (derived from UCI HAR Dataset)
+#Code Book - Tidy_dataset.txt (derived from UCI HAR Dataset)
 				
-				Course Project - Getting and Cleaning Data
+##Course Project - Getting and Cleaning Data
 				
 Activity			Factor
 				The activity during which diverse parameters were measured.
